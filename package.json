@@ -1,5 +1,5 @@
 {
-  "name": "flickity",
+  "name": "flickity-fix",
   "version": "1.1.2",
   "description": "Touch, responsive, flickable galleries",
   "main": "js/index.js",
@@ -55,5 +55,8 @@
   "bugs": {
     "url": "https://github.com/metafizzy/flickity/issues"
   },
-  "homepage": "http://flickity.metafizzy.co"
+  "homepage": "http://flickity.metafizzy.co",
+  "directories": {
+    "test": "test"
+  }
 }
